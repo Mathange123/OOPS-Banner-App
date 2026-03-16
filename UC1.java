@@ -1,4 +1,4 @@
-class UC1 {
+class UC3 {
     public static void main(String args[]) {
         System.out.println("OOPS");
     }
